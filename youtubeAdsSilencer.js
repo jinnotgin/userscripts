@@ -9,6 +9,7 @@
 // @match        http://www.youtube.com/*
 // @match        https://www.youtube.com/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/jinnotgin/userscripts/master/youtubeAdsSilencer.js
 // ==/UserScript==
 
 (function() {
